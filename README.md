@@ -1,1 +1,1 @@
-# BMI_Interface
+# Basic user interface to calculate body mass index
